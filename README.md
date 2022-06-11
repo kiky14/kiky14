@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kiky14
 - 👀 I’m interested in data analytic
 - 🌱 I’m currently learning R, python, data visualisation
-- 💞️ I’m looking to collaborate on data analysis project
-- 📫 How to reach me here I am
+- 💞️ I’m looking to collaborate on data analysis projecT
 
 <!---
 kiky14/kiky14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
